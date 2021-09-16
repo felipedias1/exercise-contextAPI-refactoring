@@ -7,5 +7,4 @@ function App() {
     <Cars />
   );
 }
-
 export default App;
